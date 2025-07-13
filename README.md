@@ -2,7 +2,7 @@
 
 The Metropolitan Police Service (MPS) provides access to various datasets related to crime, stop and search, and other policing activites thorugh its Open Data Strategy. 
 
-These datasets are available on the London Datastore.
+These datasets are available on the [London Datastore](https://data.london.gov.uk/publisher/mps)
 
 ## KEY DATASETS
 1. Drug, Knife And Gun Crime: [LONDON DRUG, KNIFE AND GUN CRIME DASHBOARD](https://public.tableau.com/app/profile/mazeda5979/viz/LondonCrimes_17308231063750/Dashboard1)
